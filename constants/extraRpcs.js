@@ -1249,7 +1249,14 @@ export default {
             "https://explorer.energi.network/api/eth-rpc"
         ]
     },
-    "42069": {
+    "39815": {
+        "rpcs": [
+            "https://mainnet.oho.ai",
+            "https://mainnet-rpc.ohoscan.com",
+            "https://mainnet-rpc2.ohoscan.com"
+        ]
+    },
+        "42069": {
         "rpcs": [
             "rpcWorking:false"
         ]
